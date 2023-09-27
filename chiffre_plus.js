@@ -58,7 +58,8 @@ for (let i = 1; i < 7; i++) {
 }
 console.log("Total d'argent est de : " + somme);
 */
-
+/*
 function hello(name,lastname) {
     console.log("HELLO " +name + " " +lastname);
 }hello("meme","lol"); 
+*/
